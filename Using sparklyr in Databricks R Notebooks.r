@@ -9,6 +9,7 @@
 
 # COMMAND ----------
 
+# this is a comment
 library(sparklyr)
 
 # COMMAND ----------
